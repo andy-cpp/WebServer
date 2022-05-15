@@ -1,0 +1,3 @@
+make
+cd ../bin
+./server
